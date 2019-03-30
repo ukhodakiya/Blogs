@@ -1,0 +1,196 @@
+﻿@model BlogPost.Models.UsersModel
+
+@{
+    ViewBag.Title = "UserList";
+}
+<link rel="stylesheet" type="text/css" href="~/Content/DataTable/datatables.css" />
+
+
+
+
+<h2>UserList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table table-striped" id="usertable">
+    <thead>
+        <tr>
+
+            <th>Name</th>
+            <th>Email</th>
+            <th>Action</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.RegisterUser)
+        {
+            <tr>
+
+                <td>@item.Name</td>
+
+                <td>@item.Email</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#usertable').DataTable();
+    });
+
+</script>
+
+<div id="AllBlog-grid"></div>
+
+
+<script>
+                        $(document).ready(function() {
+                            $("#AllBlog-grid").kendoGrid({
+                                dataSource: {
+                                    type: "json",
+                                    transport: {
+                                        read: {
+                                            url: "@Html.Raw(Url.Action("AllBlogs", "Home"))",
+                                            type: "POST",
+                                            dataType: "json",
+                                            contentType: "application/json",
+                                            //data: addAntiForgeryToken
+                                        },
+                                        create: {
+                                            url: "@Html.Raw(Url.Action("AllBlogsAdd", "Home"))",
+                                            type: "POST",
+                                            dataType: "json",
+                                            //data: addAntiForgeryToken
+                                        },
+                                        update: {
+                                            url: "@Html.Raw(Url.Action("AllBlogsUpdate", "Home"))",
+                                            type: "POST",
+                                            dataType: "json",
+                                           // data: addAntiForgeryToken
+                                        },
+                                        destroy: {
+                                            url: "@Html.Raw(Url.Action("AllBlogsDelete", "Home"))",
+                                            type: "POST",
+                                            dataType: "json",
+                                           // data: addAntiForgeryToken
+                                        },
+                                        parameterMap: function(data, operation) {
+                                            if (operation != "read") {
+                                                return data;
+                                            } else {
+                                                //for some reasons only such "Filter" data be parsed
+                                                return JSON.stringify(data);
+                                            }
+                                        }
+                                    },
+                                    schema: {
+                                        data: "Data",
+                                        total: "Total",
+                                        errors: "Errors",
+                                        model: {
+                                            id: "Id",
+                                            fields: {
+                                                Name: { editable: true, type: "string" },
+                                                Description: { editable: true, type: "string" },
+                                                UserId: { editable: true, type: "number" },
+
+                                            }
+                                        }
+                                    },
+                                    requestEnd: function(e) {
+                                        if (e.type == "create" || e.type == "update") {
+                                            this.read();
+                                        }
+                                    },
+                                    error: function(e) {
+                                        display_kendoui_grid_error(e);
+                                        // Cancel the changes
+                                        this.cancelChanges();
+                                    },
+                                    pageSize: 15,
+                                    serverPaging: true,
+                                    serverFiltering: true,
+                                    serverSorting: true
+                                },
+                                pageable: {
+                                    refresh: true,
+                                    pageSizes: [10,15,20,50,100]
+                                },
+                                toolbar: [{ name: "create", text: "Add New Record" }],
+                                editable: {
+                                    confirmation: "Are you sure you want to delete?",
+                                    mode: "inline"
+                                },
+                                scrollable: false,
+                                columns: [
+                                    {
+                                        field: "Name",
+                                        title: "Name",
+                                        width: 300
+                                    }, {
+                                        field: "Description",
+                                        title: "Description",
+                                        width: 300
+                                    }, {
+                                        field: "UserId",
+                                        title: "User",
+                                        width: 150,
+
+                                    }, {
+                                        command: [
+                                            {
+                                                name: "edit",
+                                                text: {
+                                                    edit: "Edit",
+                                                    update: "Update",
+                                                    cancel: "Cancel"
+                                                }
+                                            }, {
+                                                name: "destroy",
+                                                text: "Delete"
+                                            }
+                                        ],
+                                        width: 200
+                                    }
+                                ]
+                            });
+                        });
+
+                       
+
+                        //function storeDropDownEditor(container, options) {
+                        //    $('<input required data-text-field="Name" data-value-field="Id" data-bind="value:StoreId"/>')
+                        //        .appendTo(container)
+                        //        .kendoDropDownList({
+                        //            autoBind: false,
+                        //            dataSource: allStores
+                        //        });
+                        //}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

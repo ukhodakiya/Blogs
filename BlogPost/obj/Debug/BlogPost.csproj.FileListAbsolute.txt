@@ -1,0 +1,470 @@
+E:\Preparation\BlogPost\BlogPost\bin\ApplicationInsights.config
+E:\Preparation\BlogPost\BlogPost\bin\BlogPost.dll.config
+E:\Preparation\BlogPost\BlogPost\bin\BlogPost.dll
+E:\Preparation\BlogPost\BlogPost\bin\BlogPost.pdb
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\csc.exe
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\csc.exe.config
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\csc.rsp
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\csi.exe
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\csi.exe.config
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\csi.rsp
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.AppContext.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Collections.Immutable.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Console.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Diagnostics.Process.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.IO.Compression.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.IO.FileSystem.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.IO.Pipes.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Reflection.Metadata.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Security.AccessControl.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Security.Claims.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Threading.Thread.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.ValueTuple.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Xml.XPath.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\vbc.exe
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\vbc.exe.config
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\vbc.rsp
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\VBCSCompiler.exe
+E:\Preparation\BlogPost\BlogPost\bin\roslyn\VBCSCompiler.exe.config
+E:\Preparation\BlogPost\BlogPost\bin\Antlr3.Runtime.dll
+E:\Preparation\BlogPost\BlogPost\bin\EntityFramework.dll
+E:\Preparation\BlogPost\BlogPost\bin\EntityFramework.SqlServer.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AI.DependencyCollector.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AI.Web.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AI.WindowsServer.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.ApplicationInsights.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Web.Infrastructure.dll
+E:\Preparation\BlogPost\BlogPost\bin\Newtonsoft.Json.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.Helpers.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.Mvc.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.Optimization.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.Razor.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.WebPages.Deployment.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.WebPages.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.WebPages.Razor.dll
+E:\Preparation\BlogPost\BlogPost\bin\WebGrease.dll
+E:\Preparation\BlogPost\BlogPost\bin\EntityFramework.xml
+E:\Preparation\BlogPost\BlogPost\bin\EntityFramework.SqlServer.xml
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.Helpers.xml
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.Mvc.xml
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.Optimization.xml
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.Razor.xml
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.WebPages.xml
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.WebPages.Deployment.xml
+E:\Preparation\BlogPost\BlogPost\bin\System.Web.WebPages.Razor.xml
+E:\Preparation\BlogPost\BlogPost\bin\Newtonsoft.Json.xml
+E:\Preparation\BlogPost\BlogPost\bin\Antlr3.Runtime.pdb
+E:\Preparation\BlogPost\BlogPost\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AI.DependencyCollector.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AI.WindowsServer.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AI.Web.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Preparation\BlogPost\BlogPost\obj\Debug\BlogPost.csprojAssemblyReference.cache
+E:\Preparation\BlogPost\BlogPost\obj\Debug\BlogPost.csproj.CoreCompileInputs.cache
+E:\Preparation\BlogPost\BlogPost\obj\Debug\BlogPost.csproj.CopyComplete
+E:\Preparation\BlogPost\BlogPost\obj\Debug\BlogPost.dll
+E:\Preparation\BlogPost\BlogPost\obj\Debug\BlogPost.pdb
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Antiforgery.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Authorization.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Cors.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Localization.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Razor.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Routing.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.CodeAnalysis.CSharp.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.CodeAnalysis.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.DotNet.InternalAbstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.DependencyModel.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Localization.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Options.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Primitives.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.WebEncoders.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Net.Http.Headers.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.AppContext.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Buffers.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Collections.Immutable.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.ComponentModel.Primitives.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.ComponentModel.TypeConverter.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Console.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Data.Common.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Diagnostics.StackTrace.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.IO.FileSystem.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.IO.FileSystem.Primitives.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Reflection.Metadata.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Runtime.Serialization.Primitives.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Security.Cryptography.Algorithms.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Security.Cryptography.Encoding.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Security.Cryptography.Primitives.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Text.Encoding.CodePages.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Text.Encodings.Web.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Threading.Thread.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Xml.XmlDocument.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Xml.XPath.dll
+E:\Preparation\BlogPost\BlogPost\bin\System.Xml.XPath.XDocument.dll
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Antiforgery.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Authorization.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Cors.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Localization.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Formatters.Xml.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Razor.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Routing.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.CodeAnalysis.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.CodeAnalysis.CSharp.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.FileProviders.Composite.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.FileProviders.Physical.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Localization.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Options.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.PlatformAbstractions.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.Primitives.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Extensions.WebEncoders.xml
+E:\Preparation\BlogPost\BlogPost\bin\Microsoft.Net.Http.Headers.xml
+E:\Preparation\BlogPost\BlogPost\bin\System.Collections.Immutable.xml
+E:\Preparation\BlogPost\BlogPost\bin\System.Reflection.Metadata.xml
+E:\Preparation\BlogPost\BlogPost\bin\System.Text.Encodings.Web.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\ApplicationInsights.config
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\BlogPost.dll.config
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\BlogPost.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\BlogPost.pdb
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\csc.exe
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\csc.exe.config
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\csc.rsp
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\csi.exe
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\csi.exe.config
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\csi.rsp
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.AppContext.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Console.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.IO.Compression.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.IO.Pipes.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Security.Claims.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Threading.Thread.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.ValueTuple.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\vbc.exe
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\vbc.exe.config
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\vbc.rsp
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\VBCSCompiler.exe
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Antlr3.Runtime.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\EntityFramework.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\EntityFramework.SqlServer.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AI.Web.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.ApplicationInsights.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.CodeAnalysis.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Localization.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Options.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Newtonsoft.Json.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.AppContext.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Buffers.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Collections.Immutable.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.ComponentModel.Primitives.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Console.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Data.Common.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Diagnostics.StackTrace.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.IO.FileSystem.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Reflection.Metadata.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Text.Encoding.CodePages.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Text.Encodings.Web.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Threading.Thread.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.Helpers.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.Mvc.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.Optimization.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.Razor.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.WebPages.Deployment.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.WebPages.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.WebPages.Razor.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Xml.XmlDocument.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Xml.XPath.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Xml.XPath.XDocument.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\WebGrease.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\EntityFramework.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\EntityFramework.SqlServer.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Formatters.Xml.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.CodeAnalysis.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Localization.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Options.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Collections.Immutable.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Reflection.Metadata.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Text.Encodings.Web.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.Helpers.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.Mvc.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.Optimization.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.Razor.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.WebPages.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.WebPages.Deployment.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Web.WebPages.Razor.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Newtonsoft.Json.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Antlr3.Runtime.pdb
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.AI.Web.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\obj\Debug\BlogPost.csprojAssemblyReference.cache
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\obj\Debug\BlogPost.csproj.CoreCompileInputs.cache
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\obj\Debug\BlogPost.csproj.CopyComplete
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\obj\Debug\BlogPost.dll
+C:\Users\umang\Downloads\C# project\BlogPost\BlogPost\obj\Debug\BlogPost.pdb
